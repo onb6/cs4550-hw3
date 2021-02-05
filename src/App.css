@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.new-line {
+  white-space: pre-wrap;
+}
+
+.centered {
+  text-align: center;
+  line-height: 10px;
+}
+
+.container {
+  margin-top: 30px;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
