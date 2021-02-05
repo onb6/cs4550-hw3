@@ -56,7 +56,6 @@ function App() {
 
     // verifies valid guess and then updates game state based on a user guess
     function guess() {
-        console.log(state.code)
         let n = number;
         setNumber("");
 
